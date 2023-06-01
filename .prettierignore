@@ -1,1 +1,6 @@
 node_modules
+*.*rc
+*.md
+package.json
+tsconfig.json
+pnpm-lock.yaml
