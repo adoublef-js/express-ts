@@ -2,3 +2,5 @@
 !build
 !package.json
 !pnpm-lock.yaml
+!tsconfig.json
+!index.ts
